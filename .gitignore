@@ -1,8 +1,0 @@
-.env
-schoolpay_secret
-__pycache__/
-*.db
-*.log
-*.txt
-*.db
-instance/
