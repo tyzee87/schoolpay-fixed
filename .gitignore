@@ -1,0 +1,11 @@
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+instance/
+__pycache__/
+*.pyc
+.schoolpay_secret
+last_url.txt
+live_url.txt
+*.log
