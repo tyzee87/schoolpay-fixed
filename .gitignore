@@ -8,4 +8,7 @@ __pycache__/
 .schoolpay_secret
 last_url.txt
 live_url.txt
+live_forward_url.txt
+last_pay_url.txt
 *.log
+.env
